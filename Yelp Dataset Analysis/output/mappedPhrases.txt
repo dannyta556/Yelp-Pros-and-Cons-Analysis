@@ -1,0 +1,247 @@
+nice,pos
+friendly,pos
+kind,pos
+bland not bad,neg
+food good,pos
+pretty good,pos
+menu good,pos
+feel welcomed,pos
+portions generous,pos
+cramped,neg
+highly recommend,pos
+beer selection good,pos
+friendly staff nice,pos
+attentive staff,pos
+really really nice,pos
+staff super helpful,pos
+best mexican food,pos
+amazing friendly,pos
+dog friendly,pos
+nice atmosphere,pos
+great waiter,pos
+terrible customer service,neg
+authentic mexican food,pos
+excellent service great,pos
+store clean,pos
+all fresh ingredients,pos
+great people,pos
+pancakes fluffy,pos
+great ambiance,pos
+friendly hostess,pos
+clean looks,pos
+great environment,pos
+attentive service,pos
+ambience nice,pos
+authentic taiwanese,pos
+helpful knowledgeable,pos
+vegetarian friendly,pos
+atmosphere inviting,pos
+place friendly,pos
+wide selection,pos
+service rude,neg
+extremely rude,neg
+rude unprofessional,neg
+extremely friendly,pos
+falling apart,neg
+beautiful place,pos
+on pier,pos
+outdoor patio,pos
+employees friendly,pos
+friendly folks,pos
+good waiter,pos
+amazing pizza,pos
+best service,pos
+prices cheap,pos
+portions big,pos
+knowledgeable staff,pos
+long time get,neg
+comfortable seating,pos
+family owned,pos
+bad service,neg
+great customer service,pos
+extremely expensive,neg
+server friendly attentive,pos
+friendly attentive staff,pos
+quality customer service,pos
+convenient parking,pos
+immediately welcomed,pos
+portions huge,pos
+service fast friendly,pos
+really good service,pos
+hour get food,neg
+variety great,pos
+best sandwiches,pos
+bland waste money,neg
+welcoming friendly,pos
+extremely clean,pos
+service awful,neg
+super friendly staff,neg
+clean place,pos
+great prices,pos
+small selection,pos
+2 hours waiting,neg
+outdoor seating area,pos
+took 40 minutes,neg
+dirty,neg
+sandwich delicious,pos
+great cocktails,pos
+breakfast served all,pos
+best mexican,pos
+bartender awesome,pos
+bartender greeted,pos
+looked amazing,pos
+authentic mexican,pos
+attentive,pos
+favorite breakfast,pos
+nice friendly,pos
+top notch,pos
+knowledgeable friendly,pos
+cheap,neg
+best indian,pos
+breakfast good,pos
+comfortable,pos
+always appreciated,pos
+great place,pos
+nice ambiance,pos
+nice service,pos
+food overpriced,neg
+made fresh,pos
+vibe,pos
+friendly welcoming,pos
+kind service,pos
+great ambience,pos
+selection excellent,pos
+took forever,neg
+good selection,pos
+come back,pos
+great bar,pos
+food terrible,neg
+clean environment,pos
+good beer,pos
+good quality,pos
+quick service,pos
+great pizza,pos
+definitely returning,pos
+food "wasnt",neg
+friendly staff,pos
+staff always helps,pos
+gets crowded,neg
+definitely back,pos
+service always friendly,pos
+food reasonably priced,pos
+service slow,neg
+waiting in line,neg
+good pizza,pos
+definitely recommend,pos
+recommend anyone,pos
+great stylist,pos
+frequent customer,pos
+hidden gem,pos
+highly recommended,pos
+prices reasonable,pos
+service great,pos
+damn good,pos
+excellent service,pos
+place good,pos
+bit pricey,neg
+friendly attentive,pos
+restaurant amazing,pos
+plan ahead,neg
+worst eggs,neg
+live music,pos
+knowledgeable,pos
+overrated,neg
+prepared,pos
+disappointed,neg
+breakfast served day,pos
+delicious,pos
+helpful,pos
+busy,neg
+reasonable,pos
+attentive,pos
+really good,pos
+expensive,neg
+great food,pos
+mediocre,neg
+love place,pos
+overpriced,neg
+professional,pos
+authentic,pos
+dirty,neg
+homemade,pos
+accommodating,pos
+good service,pos
+dissapointing,neg
+not worth,neg
+welcoming,pos
+crowded,neg
+great location,pos
+friendly helpful,pos
+staff nice,pos
+really nice,pos
+reasonably priced,pos
+funny,pos
+quality food,pos
+food amazing,pos
+great atmosphere,pos
+definitely worth,pos
+always friendly,pos
+super friendly,pos
+tasteless,neg
+good price,pos
+long wait,neg
+delicious food,pos
+definitely go back,pos
+would highly recommend,pos
+outdoor seating,pos
+service horrible,neg
+would definitely recommend,pos
+super nice,pos
+never disappointed,pos
+food really good,pos
+great staff,pos
+kind place,pos
+always nice,pos
+great experience,pos
+worth price,pos
+fresh ingredients,pos
+unprofessional,neg
+well stocked,pos
+great breakfast,pos
+friendly service,pos
+reasonable price,pos
+great spot,pos
+perfect place,pos
+price great,pos
+great selection,pos
+excellent food,pos
+cooked perfection,pos
+fries good,pos
+relaxing,pos
+waste time,neg
+always fresh,pos
+food fresh,pos
+restaurant clean,pos
+service amazing,pos
+best pizza,pos
+made in house,pos
+food good service,pos
+great drinks,pos
+little pricey,pos
+staff friendly helpful,pos
+best burgers,pos
+super helpful,pos
+awesome service,pos
+not worth price,neg
+great service great
+good prices,pos
+worth every penny,pos
+always clean,pos
+server friendly,pos
+service fast,pos
+nice staff,pos
+really friendly,pos
+variety food,pos
+in great location,pos
+friendly accomodating,pos
+good atmosphere,pos

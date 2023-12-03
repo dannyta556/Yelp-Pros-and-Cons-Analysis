@@ -1,0 +1,249 @@
+nice,friendly staff
+friendly,friendly staff
+kind,friendly staff
+bland not bad,bland food
+food good,great food
+pretty good,great food
+menu good,great food
+feel welcomed,great atmosphere
+portions generous,generous portions
+cramped,feels cramped
+highly recommend,great food
+beer selection good,good beer selection
+friendly staff nice,friendly staff
+attentive staff,attentive staff
+really really nice,friendly staff
+staff super helpful,helpful staff
+best mexican food,great mexican food
+amazing friendly,friendly staff
+dog friendly,dog friendly
+nice atmosphere,great atmosphere
+great waiter,great service
+terrible customer service,poor service
+authentic mexican food,great mexican food
+excellent service great,great service
+store clean,clean store
+all fresh ingredients,fresh ingredients
+great people,friendly staff
+pancakes fluffy,fluffy pancakes
+great ambiance,great ambiance
+friendly hostess,friendly staff
+clean looks,clean store
+great environment,great atmosphere
+attentive service,attentive staff
+ambience nice,great ambiance
+authentic taiwanese,authentic taiawanese food
+helpful knowledgeable,helpful staff
+vegetarian friendly,vegetarian friendly
+atmosphere inviting,great atmosphere
+place friendly,friendly staff
+wide selection,great selection
+service rude,rude staff
+extremely rude,rude staff
+rude unprofessional,rude staff
+extremely friendly,friendly staff
+falling apart,poor presentation
+beautiful place,great presentation
+on pier,outdoor dining
+outdoor patio,outdoor dining
+employees friendly,friendly staff
+friendly folks,friendly staff
+good waiter,great service
+amazing pizza,great pizza
+best service,great service
+prices cheap,cheap prices
+portions big,generous portions
+knowledgeable staff,helpful staff
+long time get,long wait times
+comfortable seating,comfortable
+family owned,family owned
+bad service,poor service
+great customer service,great service
+extremely expensive,expensive
+server friendly attentive, friendly staff
+friendly attentive staff,friendly staff
+quality customer service,great service
+convenient parking,good parking
+immediately welcomed,friendly staff
+portions huge,generous portions
+service fast friendly,great service
+really good service,great service
+hour get food,long wait times
+variety great,great selection
+best sandwiches,great sandwiches
+bland waste money,bland food
+welcoming friendly,friendly staff
+extremely clean,clean store
+service awful,poor service
+super friendly staff,friendly staff
+clean place,clean store
+great prices,cheap prices
+small selection,small selection
+2 hours waiting,long wait times
+outdoor seating area,outdoor dining
+took 40 minutes,long wait times
+dirty,dirty
+sandwich delicious,great sandwiches
+great cocktails,great cocktails
+breakfast served all,all day breakfast
+best mexican,great mexican food
+bartender awesome,great service
+bartender greeted,friendly staff
+looked amazing,great presentation
+authentic mexican,great mexican food
+attentive,attentive staff
+favorite breakfast,great breakfast food
+nice friendly,friendly staff
+top notch,great service
+knowledgeable friendly,helpful staff
+cheap,cheap prices
+best indian,great indian food
+breakfast good,great breakfast food
+comfortable,comfortable
+always appreciated,friendly staff
+great place,great ambiance
+nice ambiance,great ambiance
+nice service,great ambiance
+food overpriced,expensive
+made fresh,fresh ingredients
+vibe,great atmosphere
+friendly welcoming,friendly staff
+kind service,friendly staff
+great ambience,great ambiance
+selection excellent,great selection
+took forever,long wait times
+good selection,great selection
+come back,great service
+great bar,great bar
+food terrible,poor food
+clean environment,clean store
+good beer,great beer
+good quality,great food
+quick service,great service
+great pizza,great pizza
+definitely returning,great service
+food "wasnt",poor food
+friendly staff,friendly staff
+staff always helps,helpful staff
+gets crowded,long wait times
+definitely back,great service
+food in area,great food
+service always friendly,friendly staff
+food reasonably priced,reasonable prices
+service slow,poor service
+waiting in line,long wait times
+good pizza,great pizza
+definitely recommend,great service
+recommend anyone,great service
+great stylist,great stylist
+frequent customer,great service
+hidden gem,hidden gem
+highly recommended,great food
+prices reasonable,reasonable prices
+service great,great service
+damn good,great food
+excellent service,great service
+place good,great atmosphere
+bit pricey,expensive
+friendly attentive,friendly staff
+restaurant amazing,great presentation
+plan ahead,long wait times
+busy not,long wait times
+worst eggs,poor eggs
+live music,live music
+knowledgeable,helpful staff
+overrated,overrated
+prepared,great service
+disappointed,inconsistent
+breakfast served day,all day breakfast
+delicious,great food
+helpful,helpful staff
+busy,long wait times
+reasonable,reasonable prices
+attentive,attentive staff
+really good,great food
+expensive,expensive
+great food,great food
+mediocre,inconsistent
+love place,great presentation
+overpriced,expensive
+professional,great service
+authentic,authentic
+dirty,dirty
+homemade,homemade
+accommodating,great atmosphere
+good service,great service
+dissapointing,inconsistent
+not worth,expensive
+welcoming,great atmosphere
+crowded,feels cramped
+great location,great location
+friendly helpful,friendly staff
+staff nice,friendly staff
+really nice,friendly staff
+reasonably priced,reasonable prices
+funny,friendly staff
+quality food,great food
+food amazing,great food
+great atmosphere,great atmosphere
+definitely worth,reasonable prices
+always friendly,friendly staff
+super friendly,friendly staff
+tasteless,bland food
+good price,cheap prices
+long wait,long wait times
+delicious food,great food
+definitely go back,great service
+would highly recommend,great service
+outdoor seating,outdoor dining
+service horrible,poor service
+would definitely recommend,great service
+super nice,friendly staff
+never disappointed,consistent
+food really good,great food
+great staff,great service
+kind place,friendly staff
+always nice,friendly staff
+great experience,great service
+worth price,reasonable prices
+fresh ingredients,fresh ingredients
+unprofessional,poor service
+well stocked,well stocked
+great breakfast,great breakfast food
+friendly service,friendly staff
+reasonable price,reasonable prices
+great spot,great location
+perfect place,great location
+price great,cheap prices
+great selection,great selection
+excellent food,great food
+cooked perfection,great food
+fries good,great fries
+relaxing,great atmosphere
+waste time,long wait times
+always fresh,fresh ingredients
+food fresh,fresh ingredients
+restaurant clean,clean store
+service amazing,great service
+best pizza,great pizza
+made in house,homemade
+food good service,great service
+great drinks,great drinks
+little pricey,expensive
+staff friendly helpful,friendly staff
+best burgers,great burgers
+super helpful,friendly staff
+awesome service,great service
+not worth price,expensive
+great service great,great service
+good prices,expensive
+worth every penny,reasonable prices
+always clean,clean store
+server friendly,friendly staff
+service fast,great service
+nice staff,friendly staff
+really friendly,friendly staff
+variety food,great selection
+in great location,great location
+friendly accomodating,friendly staff
+good atmosphere,great atmosphere

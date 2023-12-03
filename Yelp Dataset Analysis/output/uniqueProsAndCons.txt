@@ -1,0 +1,56 @@
+friendly staff,pos
+great food,pos
+great atmosphere,pos
+generous portions,pos
+good beer selection,pos
+great selection,pos
+attentive staff,pos
+helpful staff,pos
+great mexican food,pos
+dog friendly,pos
+great service,pos
+clean store,pos
+fresh ingredients,pos
+fluffy pancakes,pos
+great ambiance,pos
+authentic taiawanese food,pos
+vegetarian friendly,pos
+great presentation,pos
+outdoor dining,pos
+great pizza,pos
+cheap prices,pos
+comfortable,pos
+family owned,pos
+good parking,pos
+great sandwiches,pos
+great cocktails,pos
+all day breakfast,pos
+great breakfast food,pos
+reasonable prices,pos
+great indian food,pos
+great bar,pos
+great beer,pos
+great stylist,pos
+hidden gem,pos
+live music,pos
+authentic,pos
+homemade,pos
+great location,pos
+consistent,pos
+well stocked,pos
+great fries,pos
+great burgers,pos
+great drinks,pos
+feels cramped,neg
+bland food,neg
+poor food,neg
+poor service,neg
+rude staff,neg
+poor presentation,neg
+long wait times,neg
+expensive,neg
+small selection,neg
+dirty,neg
+poor eggs,neg
+overrated,neg
+inconsistent,neg
